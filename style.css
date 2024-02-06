@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.box{
+  width: 350px;
+  height: 670px;
+  border: 2px solid #373a3c;
+  padding: 5px;
+  margin: 50px;
+  font-weight: 400px;
+  font-size: .9375rem;
+  
+  
+  
+
+  
+}
+.tt{
+  padding-left: 230px;
+}
+.cc{
+  padding-left: 230px;
+}
+.xx{
+  margin-left: 150px;
+}
+
+.dd{
+  margin-top: 50px; 
+}
+
+.td {
+  width: 200px;
+}
+.zz{
+  padding-left: 230px;
+  }
+
+  .flex{
+    display: flex;
+    justify-content: space-between;
+  }
+  .smallline{
+    height: 2.7px;
+    background-color: black;
+    font-size:9375rem ;
+  
+  }
+  .kon{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 55px;
+  }
+  .dom{
+    justify-content: space-between;
+    padding-left: 220px;
+  }
+  .small{
+    height: 0.1px;
+    background-color: black;
+  }
+  .line{
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  .flex2{
+    display: flex;
+    justify-content: space-between;
+    
+
+  }
+  .big{
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .bone{
+    display: flex;
+    justify-content: space-between;
+
+  }
+ .bigcol {
+  width: 60%;
+ }
+
+ .both{
+  display: flex;
+
+ }
+
+ .bigcol{
+  width: 60%;
+ }
+
+ .smallcol{
+  width: 20%;
+  text-align: end;
+ }
+  
+ .bigline{
+  height: 10px;
+  background-color: black;
+ }
+ .pack{
+   padding-left: 53px;
+   margin-top:4px;
+   padding-right: 26,6;
+   
+   
+ }
